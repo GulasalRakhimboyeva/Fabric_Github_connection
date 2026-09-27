@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Warehouse",
+    "displayName": "rideshare_warehouse",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "259b607c-606f-9afe-4cd3-fe2a1da9ec0f"
+  }
+}
